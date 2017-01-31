@@ -1,2 +1,6 @@
 14/12/2016
 Bjó til dagbók og uppfærði skýrslu
+
+31/1/2017
+Gerði lýsingu í intro.tex
+

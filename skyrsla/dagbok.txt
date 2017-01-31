@@ -2,5 +2,5 @@
 Bjó til dagbók og uppfærði skýrslu
 
 31/1/2017
-Gerði lýsingu í intro.tex
-
+Unnum í lýsingu í intro.tex
+Við ræddum saman um framvindu verkefnis. Lýsing langt komi

@@ -1,8 +1,19 @@
 \section{Inngangur}
-Hér skal gera lýsingu á verkefninu þ.e hvað,  hvernig og  hvaða forritunarmál, fyrir hverja og hvaða notagildi verkefnið hefur. Minnst 500 orð. Notagildi skiptir miklumáli, reynið að sjá fyrir ykkur hverjir geti notað vélmennið ykkar og í hvaða tilgangi.  Þá kemur í ljós að 500 orð er frekar lítið :-) Hér er gott að byrja á því að lesa til um Arduino en allt hjá þeim er open-sourse og svo er hægt að lesa sér til um efnið í útgefnum bókum sem "programming Arduino \cite{monk} Skoðið vel heimildaskrá og skránna mybib.bib. Hér er gott að lýsa högun kerfisins með orðum og mynd sem þið getið gert í draw.io sjá mynd: 
 
-
-Hugmyndin að verkefninu er sú að hafa þjónustu fyrir sumarhús sem býður upp á það að stilla t.d. hita á ofnum, lesa inn gildi af gasskynjurum, hitaskynjurum og hreyfiskynjurum. Forritunarmálið að baki vélmennisins verður Arduino, hann sendir gögn á PHP síðu sem hendir gögnunum inná SQL server. Notað verður Digital Ocean vefhýsingu fyrir PHP síðuna. Vefsíðan sjálf verður svo fyrir notendann að fylgjast með öllum gildum sem vélmennið sækir frá sumarhúsinu. Sett væri upp login kerfi fyrir notendann þar sem hann einn kemst að þessum upplýsingum og getur fylgst með. Einnig væri hægt að setja upp SMS kerfi ef hitinn á húsinu myndi skyndilega detta niður til þess að koma í veg fyrir frosnar lagnir sem hentar einstaklega vel á Íslandi. Hægt væri að útfæra þetta enn stærra og fara upp í stór fyrirtæki eins og hótel eða gistiheimili út á landi. 
+Hugmyndin að verkefninu er sú að hafa þjónustu fyrir sumarhús/gistiheimili/hótel sem býður upp á það að stilla t.d. hita á ofnum, lesa inn gildi af gasskynjurum, hitaskynjurum og hreyfiskynjurum. Forritunarmálið að baki viðmótsins verður Arduino, hann sendir gögn á PHP síðu sem hendir gögnunum inná SQL server. Notað verður Digital Ocean vefhýsingu fyrir PHP síðuna. Vefsíðan sjálf verður svo fyrir notendann að fylgjast með öllum gildum sem vélmennið sækir frá sumarhúsinu. Einnig væri hægt að setja upp SMS kerfi ef hitinn á húsinu myndi skyndilega detta niður til þess að koma í veg fyrir frosnar lagnir sem hentar einstaklega vel á Íslandi. Hægt væri að útfæra þetta enn stærra og fara upp í stór fyrirtæki eins og hótel eða gistiheimili út á landi. Til þess að stilla ofna hitann er hugmyndin annað hvort að nota Rasperry Pi sem hýsir python skriftu sem er keyrð í gegnum PHP vefsíðu sem myndi hafa fyrirfram stillt gildi sem keyrir ofnana í x mikinn hita og svo þegar einstaklingurinn fer frá húsinu væri þá hitinn stilltur aftur niður í hitastig sem heldur húsinu/hotelinu/gistiheimilinu í lagi.
+Viðmót notendans verður vefsíða sem einstaklingur fær aðgang að með notenda og lykilorði. Þar getur notandinn séð yfirlit af öllum skynjurum sem tölvan les af sem væri þá hent í töflu sem væri uppfærð reglulega, en væri þó mismunandi eftir skynjurum.
+Þar inni gæti notandinn fyrirfram stillt gildi fyrir ofnana sem hann myndi vilja hafa á meðan húsið er í notkun og þegar hann fer úr húsinu. Notandinn hefur svo aðgang að öllum stillingum fyrir aðganginn sinn þar sem hann getur sett upp SMS kerfið fyrir símann sinn, breytt lykilorði að aðgangi sínum og jafnvel sett upp fleiri aðganga fyrir aðra eigendur. Gagnagrunninn væri hægt að útfæra betur þannig að eigendur fyritækisins með yfirlit af öllum kúnnum sínum, hve margir væru að nýta þjónustuna, hve margir þjónar væru uppi að hýsa þjónustuna. Þar með væri hægt að setja upp sérstaka Administrator síðu sem sýnir allar þær upplýsingar.   
+Ef hannað fyrir stór fyrirtæki væri nauðsynlegt að setja upp eitthvað kerfi til þess gera við vart ef eitthverjir þjónar detta niður eða skynjarar hætta að virka. 
+Ef lengra væri haldið áfram með notenda viðmótið væri hægt að setja upp mobile útgáfu af síðunni þannig að öll gögn væru birt á þeim máta sem myndi henta öllum símum betur, eins og til dæmis skífurit í stað töflu. 
+Yfirlit á tólum sem verða notuð;
+Arduino tölva sem les gildi af gasskynjurum, hitaskynjurum, hreyfiskynjurum.
+SQL gagnagrunnur til þess að geyma gildin.
+PHP til þess að lesa af Arduino tölvunni og henda inn á gagnagrunninn.
+HTML/CSS/JS fyrir notendaviðmót á PHP síðunni.
+Digital Ocean fyrir server hýsingu.
+SMS þjónusta fyrir neyðartilvik í húsi
+*Rasperry PI til þess að stýra ofnum
+*Python skrifta fyrir ofna
 
 \begin{figure}[h]
 \includegraphics[scale=.3]{img/system}

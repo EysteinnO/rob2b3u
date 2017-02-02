@@ -1,6 +1,6 @@
-14/12/2016
+﻿14/12/2016
 Bjó til dagbók og uppfærði skýrslu
-
-31/1/2017
-Unnum í lýsingu í intro.tex
-Við ræddum saman um framvindu verkefnis. Lýsing langt komi
+31.1.2017
+Uppfærði skýrslu og ákvað heildarhugmynd að verkefni
+2.2.2017
+Kláraði skýrslu, bjó til grunnhugmynd af gagnagrunni fyrir verkefni.

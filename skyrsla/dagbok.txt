@@ -9,3 +9,6 @@ Við ræddum saman um framvindu verkefnis. Lýsing langt komi
 2/2/2017
 Ég kláraði hardware-ið (hardware.tex)
 Eysteinn kláraði lýsingu og byrjaði á gagnagrunn á phpmyadmin.
+
+7/2/2017
+Ég kláraði allt sem tengist tíma og verkáætlun

@@ -15,3 +15,6 @@ Eysteinn kláraði lýsingu og byrjaði á gagnagrunn á phpmyadmin.
 
 9/2/2017
 Ég kláraði tíma og verkáætlun.
+
+16/2/2017
+Var að vinna í arduino og læra smá á það. Tengja gas sensor og alcohol sensor á borðinu (analog, digital) og sýna hvaða gildi kemur frá hverjum í arduino. (git_sensing_alcohol file) 

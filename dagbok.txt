@@ -1,4 +1,11 @@
-14/12/2016
+﻿14/12/2016
 Bjó til dagbók og uppfærði skýrslu
 31.1.2017
 Uppfærði skýrslu og ákvað heildarhugmynd að verkefni
+2.2.2017
+Kláraði skýrslu, bjó til grunnhugmynd af gagnagrunni fyrir verkefni.
+9.2.2017
+(Minnir að ég hafi gleymt að gera dagbók hérna)
+Unnið í að tengja fyrstu skynjara og lesa gildi inn í Arduino.
+21.2.2017
+Gagnagrunnur uppfærður og færður yfir á minn eigin server hjá Digital Ocean. Byrjað að leggja grunn að vefsíðunni einnig.

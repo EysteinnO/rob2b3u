@@ -21,3 +21,7 @@ Var að vinna í arduino og læra smá á það. Tengja gas sensor og alcohol se
 
 21/2/2017 Kristófer 
 Gerði flæðirit fyrir verkefnið okkar í Visio (arduino hlutann).
+
+
+28/2/2017 Kristófer
+Kláraði endanlega flæðirit og sauðakóða fyrir arduino og php vefsíðu. 

@@ -26,7 +26,16 @@
  -
  -28/2/2017 Kristófer
  -Kláraði endanlega flæðirit og sauðakóða fyrir arduino og php vefsíðu. 
- +31.1.2017 - Eysteinn
+
+7/3/2017 Kristófer
+Tengdum HAN run adapter og fengum Arduino til þess að virka sem WebServer og sýna gildi af Alcohol mæli og CO mæli. 
+Ég uppfærði einnig vefsíðuna og fékk hana til þess að sýna öll gildin loksins af database. Framundan er að fá arduinoinn til þess að senda gildi á 
+database.
+
+21/3/2017 Kristófer 
+Reyndum að tengja arduino við tsuts en það gékk ekki nógu vel en progress was made. 
+
++31.1.2017 - Eysteinn
  +Uppfærði skýrslu og ákvað heildarhugmynd að verkefni
  +2.2.2017 - Eysteinn
  +Kláraði skýrslu, bjó til grunnhugmynd af gagnagrunni fyrir verkefni.

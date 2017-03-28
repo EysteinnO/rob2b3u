@@ -35,6 +35,10 @@ database.
 21/3/2017 Kristófer 
 Reyndum að tengja arduino við tsuts en það gékk ekki nógu vel en progress was made. 
 
+28/3/2017 Kristófer
+Náðum að tengja arduino við server-inn okkar með varchar í stað double (readTemp) . Það voru alltaf að insertast gildi inn 
+í gagnagrunninn. Nú þarf að tengja hina sensorana við svo að hin gildin koma.
+
 +31.1.2017 - Eysteinn
  +Uppfærði skýrslu og ákvað heildarhugmynd að verkefni
  +2.2.2017 - Eysteinn

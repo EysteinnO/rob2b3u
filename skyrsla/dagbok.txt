@@ -39,6 +39,9 @@ Reyndum að tengja arduino við tsuts en það gékk ekki nógu vel en progress 
 Náðum að tengja arduino við server-inn okkar með varchar í stað double (readTemp) . Það voru alltaf að insertast gildi inn 
 í gagnagrunninn. Nú þarf að tengja hina sensorana við svo að hin gildin koma.
 
+30/3/2017 Kristófer
+Tengdi DHT sensor og alcohol/gas sensor og þeir báðir virka í arduino (gefa gildi)
+
 +31.1.2017 - Eysteinn
  +Uppfærði skýrslu og ákvað heildarhugmynd að verkefni
  +2.2.2017 - Eysteinn

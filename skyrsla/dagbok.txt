@@ -42,8 +42,11 @@ Náðum að tengja arduino við server-inn okkar með varchar í stað double (r
 30/3/2017 Kristófer
 Tengdi DHT sensor og alcohol/gas sensor og þeir báðir virka í arduino (gefa gildi)
 
-25.4/2017 Kristófer
-Vann í skýrslu, hún er langt komin. 
+25/4/2017 Kristófer
+Vann í skýrslu.
+
+27/4/2017 Kristófer
+Er að leggja lokahönd á skýrslu verkefnis í ROB og afkastaði miklu. Ekki mikið eftir að gera í henni (Töflu fyrir vélbúnað og heimildaskrá er það sem er eftir). 
 
 +31.1.2017 - Eysteinn
  +Uppfærði skýrslu og ákvað heildarhugmynd að verkefni

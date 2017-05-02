@@ -1,31 +1,28 @@
-﻿-14/12/2016 Kristófer
- +﻿14/12/2016
-  Bjó til dagbók og uppfærði skýrslu
- -
- -31/1/2017 Kristófer
- -Unnum í lýsingu í intro.tex
- -Við ræddum saman um framvindu verkefnis. Lýsing langt komi
- -
- -
- -2/2/2017 Kristófer
- -Ég kláraði hardware-ið (hardware.tex)
- -Eysteinn kláraði lýsingu og byrjaði á gagnagrunn á phpmyadmin.
- -
- -7/2/2017 Kristófer
- -Ég vann í tíma og verkáætlun.
- -
- -9/2/2017 Kristófer
- -Ég kláraði tíma og verkáætlun.
- -
- -16/2/2017 Kristófer
- -Var að vinna í arduino og læra smá á það. Tengja gas sensor og alcohol sensor á borðinu (analog, digital) og sýna hvaða gildi kemur frá hverjum í arduino. (git_sensing_alcohol file) 
- -
- -21/2/2017 Kristófer 
- -Gerði flæðirit fyrir verkefnið okkar í Visio (arduino hlutann).
- -
- -
- -28/2/2017 Kristófer
- -Kláraði endanlega flæðirit og sauðakóða fyrir arduino og php vefsíðu. 
+
+31/1/2017 Kristófer
+ Unnum í lýsingu í intro.tex
+ Við ræddum saman um framvindu verkefnis. Lýsing langt komi
+ 
+ 
+ 2/2/2017 Kristófer
+ Ég kláraði hardware-ið (hardware.tex)
+ Eysteinn kláraði lýsingu og byrjaði á gagnagrunn á phpmyadmin.
+ 
+ 7/2/2017 Kristófer
+ Ég vann í tíma og verkáætlun.
+ 
+ 9/2/2017 Kristófer
+ Ég kláraði tíma og verkáætlun.
+ 
+ 16/2/2017 Kristófer
+ Var að vinna í arduino og læra smá á það. Tengja gas sensor og alcohol sensor á borðinu (analog, digital) og sýna hvaða gildi kemur frá hverjum í arduino. (git_sensing_alcohol file) 
+ 
+ 21/2/2017 Kristófer 
+ Gerði flæðirit fyrir verkefnið okkar í Visio (arduino hlutann).
+ 
+ 
+ 28/2/2017 Kristófer
+ Kláraði endanlega flæðirit og sauðakóða fyrir arduino og php vefsíðu. 
 
 7/3/2017 Kristófer
 Tengdum HAN run adapter og fengum Arduino til þess að virka sem WebServer og sýna gildi af Alcohol mæli og CO mæli. 
@@ -51,17 +48,17 @@ Er að leggja lokahönd á skýrslu verkefnis í ROB og afkastaði miklu. Ekki m
 2/5/2017 Kristófer
 Kláraði töflu fyrir vélbúnaðinn. Vesen með tex-inn. Bara heimildaskrá eftir.
 
-+31.1.2017 - Eysteinn
- +Uppfærði skýrslu og ákvað heildarhugmynd að verkefni
- +2.2.2017 - Eysteinn
- +Kláraði skýrslu, bjó til grunnhugmynd af gagnagrunni fyrir verkefni.
- +9.2.2017 - Eysteinn 
- +(Minnir að ég hafi gleymt að gera dagbók hérna)
- +Unnið í að tengja fyrstu skynjara og lesa gildi inn í Arduino.
- +21.2.2017 - Eysteinn
- +Gagnagrunnur uppfærður og færður yfir á minn eigin server hjá Digital Ocean. Byrjað að leggja grunn að vefsíðunni einnig.
- +28.2.2017 - Eysteinn
- +Tengdum Arduino við HanRun adapter og fékk til þess að virka. Breytti vefrótinni á server fyrir verkefnið svo það sé með sitt eigið directory. Setti upp vefsíðuna á nýtt,
+31.1.2017 - Eysteinn
+ Uppfærði skýrslu og ákvað heildarhugmynd að verkefni
+ 2.2.2017 - Eysteinn
+ Kláraði skýrslu, bjó til grunnhugmynd af gagnagrunni fyrir verkefni.
+ 9.2.2017 - Eysteinn 
+ (Minnir að ég hafi gleymt að gera dagbók hérna)
+ Unnið í að tengja fyrstu skynjara og lesa gildi inn í Arduino.
+ 21.2.2017 - Eysteinn
+ Gagnagrunnur uppfærður og færður yfir á minn eigin server hjá Digital Ocean. Byrjað að leggja grunn að vefsíðunni einnig.
+ 28.2.2017 - Eysteinn
+ Tengdum Arduino við HanRun adapter og fékk til þess að virka. Breytti vefrótinni á server fyrir verkefnið svo það sé með sitt eigið directory. Setti upp vefsíðuna á nýtt,
  +bjó til einfalt viðmót með töflu þar sem gildin munu birtast. 
 
 7.3.2017 - Eysteinn 
